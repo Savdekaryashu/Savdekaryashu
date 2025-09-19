@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **Yash Savdekar**  
 
-![Header](./github-header-banner.png)  
+
+![Header](./Header.png)  
 
 🎓 Final Year Student | 💻 AI • Data Science • Machine Learning | 🔬 Research Enthusiast  
 
@@ -13,7 +13,6 @@
 ## 🚀 About Me  
 
 - 🤖 Passionate about **Artificial Intelligence, Deep Learning, and Computer Vision**  
-- 🧩 Exploring **Human–Computer Interaction (HCI)** and **Augmented Reality**  
 - 📚 Currently building:  
   - 🎨 **Image Colorizer (RGB-based DL model)**  
   - ✋ **SignVerse – Real-time Indian Sign Language Interpreter**  
@@ -26,7 +25,6 @@
 
 - Neural Networks & Deep Learning  
 - Computer Vision (Image Processing, Gesture Recognition)  
-
 - Augmented Reality Applications  
 
 ---
@@ -46,8 +44,8 @@
 
 ## 📌 Featured Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savdekaryashu&repo=Image_Colorizer&theme=radical)](https://github.com/Savdekaryashu/Image_Colorizer)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savdekaryashu&repo=Digit-Recognition&theme=radical)](https://github.com/Savdekaryashu/Digit-Recognition)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savdekaryashu&repo=Image_Colorizer&theme=radical)](https://github.com/Savdekaryashu/Image_Colorizer)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savdekaryashu&repo=Reminder-System&theme=radical)](https://github.com/Savdekaryashu/Reminder-System)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savdekaryashu&repo=Digit-Recognition&theme=radical)](https://github.com/Savdekaryashu/Digit-Recognition) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savdekaryashu&repo=Quick-Fix&theme=radical)](https://github.com/Savdekaryashu/Quick-Fix)  
 
 ✋ **SignVerse** *(In Progress)*  
